@@ -1,2 +1,2 @@
 # ads_support_app
-Autonomous driving support app
+Autonomous driving system support app
