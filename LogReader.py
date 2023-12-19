@@ -38,6 +38,7 @@ def read_one_file(f_idx_name, getFull, sidx, ilen):
     info_curr = LogReporter.get_info_curr(f_idx_name)
     #c_year, c_month, c_day = info_curr[2], info_curr[3], info_curr[4]
 
+    f_name = []
     f_dat_name = f_idx_name[:-4] + ".dat"
     #print("f_dat:", f_dat_name)
 
